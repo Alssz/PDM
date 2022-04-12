@@ -1,0 +1,5 @@
+API_debounce.c:31:6:debounceFSM_init	4	static
+API_debounce.c:44:6:debounceFSM_update	8	static
+API_debounce.c:105:13:buttonPressed	4	static
+API_debounce.c:116:13:buttonReleased	4	static
+API_debounce.c:127:8:readKey	16	static

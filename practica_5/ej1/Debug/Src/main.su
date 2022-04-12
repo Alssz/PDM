@@ -1,0 +1,7 @@
+main.c:65:5:main	8	static
+main.c:94:6:debounceFSM_init	4	static
+main.c:108:6:debounceFSM_update	8	static
+main.c:169:6:buttonPressed	8	static
+main.c:179:6:buttonReleased	8	static
+main.c:208:13:SystemClock_Config	88	static
+main.c:260:13:Error_Handler	8	static
